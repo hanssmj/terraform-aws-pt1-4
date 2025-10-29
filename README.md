@@ -9,3 +9,4 @@ Aquest projecte crea una infraestructura bàsica a AWS amb Terraform:
 - 2 instàncies EC2 (Amazon Linux)
 
 Fet per: Hans Jeremi González Pin 
+![Topologia](assets/diagrama_aws.PNG)
